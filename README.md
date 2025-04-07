@@ -2,7 +2,7 @@
  
 ## Contenu 
 
-Repository hebergent le site web du projet Robobot réalisé pendant le hackaton du Tremplin Numérique n°6.
+Repository hébergeant le site web du projet Robobot réalisé pendant le hackaton du Tremplin Numérique n°6.
 
 ## Contributeurs-trices :
 
