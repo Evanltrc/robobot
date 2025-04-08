@@ -6077,7 +6077,7 @@ textarea.form-control-lg {
   justify-content: center;
   padding: 0;
   margin-right: 15%;
-  margin-bottom: 1rem;
+  margin-bottom: 0.25rem;
   margin-left: 15%;
 }
 .carousel-indicators [data-bs-target] {
@@ -11849,6 +11849,17 @@ textarea.form-control-lg {
   .d-print-none {
     display: none !important;
   }
+}
+
+body {
+  background-image: url(assets/harry-potter-975362_1920.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+p {
+  color: white;
 }
 
 /*# sourceMappingURL=custom.css.map */
