@@ -7884,15 +7884,15 @@ textarea.form-control-lg {
 }
 
 .mt-3 {
-  margin-top: 1rem !important;
+  margin-top: 2.5rem !important;
 }
 
 .mt-4 {
-  margin-top: 1.5rem !important;
+  margin-top: 6rem !important;
 }
 
 .mt-5 {
-  margin-top: 3rem !important;
+  margin-top: 10rem !important;
 }
 
 .mt-auto {
@@ -11862,4 +11862,17 @@ p {
   color: white;
 }
 
+li {
+  text-decoration: none;
+}
+
+a {
+  color: rgb(170, 170, 170);
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(255, 255, 255);
+  text-decoration: underline;
+}
 /*# sourceMappingURL=custom.css.map */
