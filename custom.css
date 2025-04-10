@@ -7883,7 +7883,7 @@ textarea.form-control-lg {
 }
 
 .mt-1 {
-  margin-top: 0.25rem !important;
+  margin-top: 5rem !important;
 }
 
 .mt-2 {
@@ -11882,5 +11882,51 @@ a:hover {
   color: rgb(255, 255, 255);
   text-decoration: underline;
   cursor: url("assets/vif.png"), auto;
+}
+
+/*# -------------------------------------- */
+
+.side-navbar {
+  width: 11.25rem;
+  height: 100%;
+  position: fixed;
+  margin-left: -18.75rem;
+  background-color: #100901;
+  transition: 0.5s;
+}
+.nav-link:active,
+.nav-link:focus,
+.nav-link:hover {
+  background-color: #ffffff26;
+}
+.my-container {
+  transition: 0.4s;
+}
+.active-nav {
+  margin-left: 0;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 2000;
+}
+/* for main section */
+.active-cont {
+  margin-left: 11.25rem;
+}
+#menu-btn {
+  background-color: #100901;
+  color: #fff;
+  position: fixed;
+  z-index: 999999;
+  font-size: xx-large;
+}
+
+.bleu {
+  color: var(--bs-link-color);
+}
+
+#mato {
+ padding-left: 1rem;
 }
 /*# sourceMappingURL=custom.css.map */
