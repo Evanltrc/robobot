@@ -1,4 +1,6 @@
 # Hackaton Robobot
+
+Lien du site : [Bot De Mort](https://evanltrc.github.io/robobot/)
  
 ## Contenu 
 
@@ -12,8 +14,12 @@ Repository hébergeant le site web du projet Robobot réalisé pendant le hackat
 * Etienne : Chargé de la documentation
 * Fahima : Chargée de la gestion de projet
 
+## Contact 
+
+Veuillez ouvrir une [issue GitHub](https://github.com/Evanltrc/robobot/issues) pour nous contacter.
+
 ## Licence
-Le site est sous licence [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.fr).
+Le site est sous licence [CC-BY-NC-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.fr).
 
 ## Références 
 [Wiki du ponant](https://www.wiki.lesfabriquesduponant.net/index.php?title=Tutoriel_robotbot_arduino)
